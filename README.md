@@ -1,8 +1,8 @@
-#### OpenGLGamePractice
+## OpenGLGamePractice
 
-## Reprinted 特訓99 barrage game
+#### Reprinted 特訓99 barrage game
 
-<img src="https://github.com/chenyjzn/OpenGLGame_Practice/tree/master/demo/GameDemo.gif" width="400" height="311"></a>
+<img src="https://github.com/chenyjzn/OpenGLGame_Practice/blob/master/demo/GameDemo.gif" width="400" height="311"></a>
 
 ### Libraries
 - [glfw](https://github.com/glfw/glfw)
